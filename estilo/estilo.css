@@ -1,0 +1,10 @@
+body{
+	text-align: center;
+}
+
+.fondo{
+	transition-property: background;
+	transition-duration: 4s;
+	transition-delay: 2s;
+	background:  #f00000;
+}
